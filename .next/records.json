@@ -1,0 +1,94 @@
+{
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!pages/index.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/tachyons/css/tachyons.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!containers/App.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "multi node_modules/next/dist/client/next": 0,
+      "css node_modules/css-loader/index.js??ref--5-1!node_modules/tachyons/css/tachyons.css 0": 1,
+      "css node_modules/css-loader/index.js??ref--5-1!containers/App.css 0": 2,
+      "css node_modules/css-loader/index.js??ref--5-1!pages/index.css 0": 3
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/g59O16ClJFOyF~MHFgEcY/pages/_app.js": 2,
+      "static/g59O16ClJFOyF~MHFgEcY/pages/_error.js": 3,
+      "static/g59O16ClJFOyF~MHFgEcY/pages/index.js": 4,
+      "static/g59O16ClJFOyF~MHFgEcY/pages/robotPage.js": 5,
+      "static/runtime/main.js": 6,
+      "styles": 7,
+      "static/cv9~Y7NuwA1PMk2CCnwZB/pages/_app.js": 8,
+      "static/cv9~Y7NuwA1PMk2CCnwZB/pages/_error.js": 9,
+      "static/cv9~Y7NuwA1PMk2CCnwZB/pages/index.js": 10,
+      "static/cv9~Y7NuwA1PMk2CCnwZB/pages/robotPage.js": 11
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}

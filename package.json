@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "next",
-    "test": "react-scripts test --env=jsdom"
+    "start": "next start -p $PORT",
+    "test": "react-scripts test --env=jsdom",
+    "build": "next build"
   },
   "keywords": [],
   "author": "",
